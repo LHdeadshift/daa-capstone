@@ -1,7 +1,7 @@
 # Capstone Project Technical Report: Mini-Courier Planner
 **Mapped Course Outcomes:** CO1, CO2, CO3, CO4, CO5 (Bloom's Taxonomy: L5 - Evaluate)  
 **Total Marks:** 100  
-**Project Title:** Mini-Courier Planner: An Algorithmic Dispatch and Route Optimization System
+**Project Title:** Mini-Courier Planner: An Algorithmic Dispatch and Route Optimization System 
 **Faculty Name:** Dr. Ankita Gupta
 **Submission Tag:** `v1.0-final-submission`  
 
